@@ -1,9 +1,11 @@
 # Project Proposal
+Nicholas Dell'Aquilo
 
-Objective: interpretation of the correlations of negative reviews
+My project will aim to create model to interpret reviews of orders on the Brazilian ecommerce website [Olist](https://olist.com/). A predictive model is unviable in this scenario, because it is impossible to predict some important aspects such as shipping delays, but there is value to be gained from understanding what tends to cause negative user reviews. As outlined in [this article](https://www.inc.com/andrew-thomas/the-hidden-ratio-that-could-make-or-break-your-company.html), a single negative review can have a large and lasting effect; the article notably claims that the impact of such a review is about 40 times that of a single positive review. Being able to understand why people left negative reviews therefore would provide a significant value.
 
-Why? https://www.inc.com/andrew-thomas/the-hidden-ratio-that-could-make-or-break-your-company.html
+My data source is "[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce)" from **Kaggle**. The data is available to download ready to use in tabular format. The data set contains ~100,000 orders, organized in a relational database schema. The combined dataset contains information on orders including the price paid, time ordered, time delivered, and review score, as well as more specific information about the relevant product(s), such as their  dimensions and weight.
+![image](https://user-images.githubusercontent.com/22899761/120545423-9ff78980-c3bc-11eb-8e45-a2ce29df0880.png)
 
-Data source: https://www.kaggle.com/olistbr/brazilian-ecommerce
+My prediction of the model is that attributes that reduce user convenience lead to negative reviews. For example, deliveries that are later than the expected arrival time would lead to a negative review. Additionally, attributes of the product, such as heavy weight or large size might make it more likely for them to be damaged during shipping. Finally, I believe it is likely that if a user paid more for a product, and were not satisfied, that they would be mroe likely to leave a negative review.
 
-Dataset schema: ![image](https://user-images.githubusercontent.com/22899761/120545423-9ff78980-c3bc-11eb-8e45-a2ce29df0880.png)
+I plan to use Python to create several different classification models. Since the data uses a relational database schema, it is likely that I will use some SQL tools to manipulate the data. The minimum viable product for this project would consist of a few simple classification models with attributes that are easy to understand. Demonstrating a clear correlation in the dataset would establish a reasoning for looking deeper into the dataset to make more complex models.
