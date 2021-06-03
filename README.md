@@ -15,8 +15,6 @@ Nicholas Dell'Aquilo
 
 
 #### Important Links
-[Project Intro](https://github.com/thisismetis/NBM_Classification_Student/blob/main/curriculum/project-introduction/project_intro.md)
-
-[Success Guide](https://github.com/thisismetis/NBM_Classification_Student/blob/main/curriculum/project-introduction/project_success_guide.md)
-
-[Project Workflow](https://github.com/thisismetis/NBM_Classification_Student/blob/main/curriculum/classification-workflow/classification-workflow.md)
+* [Project Intro](https://github.com/thisismetis/NBM_Classification_Student/blob/main/curriculum/project-introduction/project_intro.md)
+* [Success Guide](https://github.com/thisismetis/NBM_Classification_Student/blob/main/curriculum/project-introduction/project_success_guide.md)
+* [Project Workflow](https://github.com/thisismetis/NBM_Classification_Student/blob/main/curriculum/classification-workflow/classification-workflow.md)
