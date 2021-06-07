@@ -3,7 +3,7 @@ Nicholas Dell'Aquilo
 
 ## [Project Proposal](https://github.com/nickdellaquilo/Classification-Project/blob/main/Project-Proposal.md)
 
-## MVP
+## [MVP](https://github.com/nickdellaquilo/Classification-Project/blob/main/MVP.md#classification-project-mvp)
 
 ## Project Writeup
 
