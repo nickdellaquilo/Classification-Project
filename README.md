@@ -7,7 +7,7 @@ Nicholas Dell'Aquilo
 
 ## [Project Writeup](https://github.com/nickdellaquilo/Classification-Project/blob/main/project-writeup.md)
 
-## Slides
+## [Slides](https://github.com/nickdellaquilo/Classification-Project/blob/main/Project-Presentation.pdf)
 
 ## [Code Notebook](https://github.com/nickdellaquilo/Classification-Project/blob/main/Code.ipynb)
 
