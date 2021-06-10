@@ -5,11 +5,11 @@ Nicholas Dell'Aquilo
 
 ## [MVP](https://github.com/nickdellaquilo/Classification-Project/blob/main/MVP.md#classification-project-mvp)
 
-## Project Writeup
+## [Project Writeup](https://github.com/nickdellaquilo/Classification-Project/blob/main/project-writeup.md)
 
 ## Slides
 
-## Code Notebook
+## [Code Notebook](https://github.com/nickdellaquilo/Classification-Project/blob/main/Code.ipynb)
 
 
 
