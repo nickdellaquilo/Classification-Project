@@ -1,4 +1,5 @@
-
+# Diagnosing Negative Ecommerce Reviews
+Nicholas Dell'Aquilo
 
 ## Abstract
 The goal of this project was to use classification models to determine the cause of negative reviews on an ecommerce website, with the goal of reducing customer churn. I used a [dataset from Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) to analyze features that correlated with negative reviews. I was able to create a logistic regression model that achieved some level of success, and measured its success upon multiple metrics.
@@ -9,7 +10,7 @@ This project is motivated by an [article](https://www.inc.com/andrew-thomas/the-
 ## Data
 The dataset contains 100,000 rows with informaton on reviews of orders from an ecommerce website. The target class is engineered from the original review score, with a score of a 1 or 2 being considered negative, and a score of a 4 or 5 being considered positive. ~8,200 review scores of 3 were disregarded to retain simplicity and interpretability in the model. The 10 features used in the model include price paid, the length of text elements of a product, the number of photos on the product page, the item's weight, and its physical dimensions.
 
-Feature Engineering:
+#### Feature Engineering:
 * Converted review score into binary negative/positive target class. (Reviews with a score of 3 were removed)
 * Multiplied length, width, and height features to measure volume
 
